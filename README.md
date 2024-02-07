@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Honey Patel 
-- 👀 I’m interested in frontend developement and have great understanding of HTML, CSS, JavaScript , React, Typescript, and some design frameworks like Tailwind CSS, Bootstarp, MUI
-- 🌱 I’m currently learning NextJs
-- 📫 Reach out to me on honeypatelf302@gmail.com 
+# Hi there! 👋
 
-<!---
-Honey0908/Honey0908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Honey Patel, a passionate frontend developer with a knack for crafting delightful user experiences. My toolkit includes HTML, CSS, JavaScript, React, TypeScript, and I love working with design frameworks like Tailwind CSS, Bootstrap, and MUI.
+
+🚀 **Currently Exploring:** Next.js to take my projects to the next level.
+
+### 📫 Get in Touch
+
+Feel free to reach out to me at honeypatelf302@gmail.com. I'm always open to interesting collaborations and conversations!
+
+**Happy coding!** 🌟
